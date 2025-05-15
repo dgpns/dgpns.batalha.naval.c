@@ -1,4 +1,4 @@
-# dgpns.batalha.naval.c# Batalha Naval - Nível Básico (em C)
+# dgpns.batalha.naval.c
 
 Este projeto simula a criação de um tabuleiro 10x10 com dois navios posicionados, utilizando vetores e matrizes em linguagem C.
 
